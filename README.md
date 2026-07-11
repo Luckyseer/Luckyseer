@@ -44,7 +44,3 @@ I build production-oriented applications using Python and Java, with a particula
 - Retrieval and natural-language search
 - Scalable backend and data architecture
 - Applied computer vision
-
-## Certification
-
-- **Databricks Certified Data Engineering Professional**
