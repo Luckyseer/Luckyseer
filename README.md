@@ -1,6 +1,6 @@
 # Luckyseer
 
-**Senior Software Engineer focused on AI engineering, backend systems, and data platforms.**
+**Senior Software Engineer focused on Backend systems, and data platforms.**
 
 I build production-oriented applications using Python and Java, with a particular interest in LLM-powered agents, natural-language interfaces, developer tooling, and data-intensive backend systems.
 
@@ -37,10 +37,3 @@ I build production-oriented applications using Python and Java, with a particula
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-## Current Interests
-
-- Reliable AI-agent orchestration and evaluation
-- LLM-powered code analysis and automation
-- Retrieval and natural-language search
-- Scalable backend and data architecture
-- Applied computer vision
